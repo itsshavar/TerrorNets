@@ -1,2 +1,2 @@
 # TerrorNets
-Terroris Network Datasets
+Terrorist Network Datasets
