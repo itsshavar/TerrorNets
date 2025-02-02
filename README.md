@@ -20,8 +20,8 @@ Each **GML file** contains:
 
 These datasets are structured to maintain **graph consistency** while allowing for **comparative analysis** across different terrorist organizations.
 
-### **Primary Conspirators in Each Network**
-The following individuals were identified as the **primary conspirators** in each terrorist network:
+### **Top-5 Conspirators in Each Network**
+The following individuals were identified as the **Top 5 conspirators** in each terrorist network based on their involvement:
 
 - **TerrorNet1:** Salar, Ekbal, Dr. Abdul Hameed, Asadulla, Gilani
 - **TerrorNet2:** Sivarasan, Subha, Santhan, Murugan, Arivu
