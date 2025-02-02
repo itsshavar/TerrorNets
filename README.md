@@ -1,9 +1,6 @@
 # TerrorNets
 Terrorist Network Datasets
 
-# TerrorNets
-Terroris Network Datasets
-
 ## Overview
 This repository contains five **GML-formatted terrorist network datasets** and algorithms used for analyzing leadership structures within clandestine organizations. The datasets represent different terrorist networks, and the algorithms aim to identify **primary conspirators** and **leaders** based on network topology and information flow.
 
